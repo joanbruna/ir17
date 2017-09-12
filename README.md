@@ -1,9 +1,13 @@
 # Inference and Representation (DS-GA-1005, CSCI-GA.2569)
 #### *Course staff:*
+
+this is a simple test
+
 | | Name | E-mail  |
 |----------|---------------|----------------|
 |Instructor| [Joan Bruna](http://cims.nyu.edu/~bruna/)  |  bruna@cims.nyu.edu        |
 |TA| Vlad Kobzar | vk283@nyu.edu |
+
 
 ### Syllabus
 This graduate level course presents fundamental tools of probabilistic graphical models, with an emphasis on designing and manipulating generative models, and performing inferential tasks when applied to various types of data. 
