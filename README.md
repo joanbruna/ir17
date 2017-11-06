@@ -16,11 +16,12 @@ We will study latent graphical models (Latent Dirichlet Allocation, Gaussian Pro
 
 ### Lecture Location
 Monday, 6:20-8:00pm, in 60 FA 110
-### [Recitation/Laboratory](https://github.com/inf16nyu/home/tree/master/labs) (required for all students)
-Wednesdays, 5:20-6:10pm in 60 FA 110
+### [Recitation/Laboratory](materials on NYU Classes) (required for all students)
+Monday, 8:10-9:00pm in 60 FA 110
 
 ### Office hours
 JB: Monday, 10:00-11:00pm. Location: 60 5th ave, 6th floor, room 612.
+VK: Wednesday, 9:30-10:30pm. Location: 60 5th ave, 7th floor, room 737.
 
 ### Grading
 problem sets (45%) + midterm exam (25%) + final project (25%) + participation (5%). 
@@ -29,7 +30,7 @@ problem sets (45%) + midterm exam (25%) + final project (25%) + participation (5
 We will use [Piazza](https://piazza.com/class/j7ccyig9hwz1ze) to answer questions and post announcements about the course.  Students' use of Piazza, particularly for adequately answering other students' questions, will contribute toward their participation grade.
 
 ### Online recordings 
-Most of the lectures and labs' videos will be posted to NYU Classes. Note, however, that class attendance is required.
+Most of the lectures videos will be posted to NYU Classes. Note, however, that class attendance is required.
 
 ## Schedule
 | Week        | Lecture Date           | Topic       |  Reference                    |  Deliverables  |
