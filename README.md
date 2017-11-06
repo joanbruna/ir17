@@ -20,7 +20,7 @@ Monday, 6:20-8:00pm, in 60 FA 110
 Wednesdays, 5:20-6:10pm in 60 FA 110
 
 ### Office hours
-JB: Monday, 10:00-11:00pm. Location: 60 5th ave, 6th floor, room 612.
+JB: Monday, 9:00-11:00am. Location: 60 5th ave, 6th floor, room 612.
 
 ### Grading
 problem sets (45%) + midterm exam (25%) + final project (25%) + participation (5%). 
