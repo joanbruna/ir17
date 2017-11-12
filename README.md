@@ -46,10 +46,10 @@ Most of the lectures videos will be posted to NYU Classes. Note, however, that c
 | 10 | 11/6 | **Lec7** Variational Inference. Revisiting EM. Mean Field.  [slides](https://github.com/joanbruna/ir17/blob/master/slides/lecture7.pdf) | [Graphical Models, Exponential Families and Variational INference, Chapter 3](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) [Variational INference with Stochastic Search](http://www.cs.berkeley.edu/%7Ejordan/papers/paisley-etal-icml12.pdf) |  |
 | 11 | 11/13 | **Lec8**  Variational Inference (cont'd). Variational Autoencoders | | [PS5](https://github.com/inf17nyu/home/blob/master/hw/ps5/ps5.pdf), due 11/21 | 
 | 12 | 11/20 | **Lec9**  Structured Output Prediction. Conditional Random Fields (CRF), Hidden Markov Models, Moment Matching | Murphy, Secs. 19.5 & 19.6 <br /> [Notes on pseudo-likelihood](http://cs.nyu.edu/~dsontag/courses/inference15/slides/pseudolikelihood_notes.pdf) <br /> [An Introduction to Conditional Random Fields](http://arxiv.org/pdf/1011.4088v1) (section 4; optional) <br /> [Approximate maximum entropy learning in MRFs](http://arxiv.org/abs/1206.3257) (optional) | |
-| 14 | 11/27 |  **Lec10**  Boltzmann Machines. Deep Generative Models [slides](https://github.com/inf17nyu/home/blob/master/slides/lecture9.pdf) |  | [PS6](https://github.com/inf17nyu/home/blob/master/hw/ps7/), due 12/5 |
+| 14 | 11/27 |  **Lec10**  Boltzmann Machines. Deep Generative Models  |  | [PS6](https://github.com/inf17nyu/home/blob/master/hw/ps7/), due 12/5 |
 | 15 | 12/4 | **Guest Lecture TBA**  |  |  |
-| 16 | 12/11 | **Lec10** Modeling Images and high-dimensional data. Deep Auto-regressive Models. Normalizing Flows. Generative Adversarial Networks | references in slides |  |
-|  | 12/12  | **Lec11**  Further applications of GANS. Open Problems | references in slides | [Project writeup](https://github.com/inf16nyu/home/blob/master/hw/project_writeup.pdf), due 12/16. |
+| 16 | 12/11 | **Lec11** Modeling Images and high-dimensional data. Deep Auto-regressive Models. Normalizing Flows. Generative Adversarial Networks | references in slides |  |
+|  | 12/12  | **Lec12**  Further applications of GANS. Open Problems | references in slides | [Project writeup](https://github.com/inf16nyu/home/blob/master/hw/project_writeup.pdf), due 12/16. |
 | 17 | 12/18 | **Final Day**  Poster Presentations of Final Projects <br /><br /> <b>Location: Center for Data Science, 60 5th ave, in the 7th floor open space</b> | | |
 
 ### Bibliography
