@@ -49,7 +49,7 @@ Most of the lectures videos will be posted to NYU Classes. Note, however, that c
 | 14 | 11/27 |  **Lec10**  Output Structured Prediction (cont'd). [slides](https://github.com/joanbruna/ir17/blob/master/slides/lecture10.pdf) | [Fixing Max-Product: Convergent Message Passing Algorithms for MAP LP Relaxations, Globerson and Jaakkola](https://people.csail.mit.edu/tommi/papers/GloJaa_nips07.pdf) | |
 | 15 | 12/4 | **Guest Lecture TBA**  |  | [PS6](https://github.com/joanbruna/ir17/tree/master/hw/ps6/), due 12/8  |
 | 16 | 12/11 | **Lec11** Modeling Images and high-dimensional data. Deep Auto-regressive Models. Normalizing Flows. Generative Adversarial Networks [slides](https://github.com/joanbruna/ir17/blob/master/slides/lecture11.pdf) | references in slides |  |
-|  | 12/12  | **Lec12**  Further applications of GANS. Open Problems | references in slides | [Project writeup](https://github.com/inf16nyu/home/blob/master/hw/project_writeup.pdf), due 12/18. |
+|  | 12/12  | **Lec12**  Further applications of GANS. Open Problems [slides](https://github.com/joanbruna/ir17/blob/master/slides/lecture12.pdf) | references in slides | [Project writeup](https://github.com/inf16nyu/home/blob/master/hw/project_writeup.pdf), due 12/18. |
 | 17 | 12/18 | **Final Day**  Poster Presentations of Final Projects <br /><br /> <b>Location: Center for Data Science, 60 5th ave, in the 7th floor open space</b> | | |
 
 ### Bibliography
